@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.example.practiceapp">
+
+
+    <uses-permission android:name="android.permission.ACCESS_WIFI_STATE" />
+    <uses-permission android:name="android.permission.CHANGE_WIFI_MULTICAST_STATE" />
+    <uses-permission android:name="android.permission.CHANGE_WIFI_STATE" />
+
+    <application
+        android:allowBackup="true"
+        android:icon="@mipmap/ic_launcher"
+        android:label="@string/app_name"
+        android:roundIcon="@mipmap/ic_launcher_round"
+        android:supportsRtl="true"
+        android:theme="@style/Theme.PracticeApp">
+        <activity
+            android:name=".Practical17"
+            android:exported="false" />
+        <activity
+            android:name=".Practical16"
+            android:exported="false" />
+        <activity
+            android:name=".Practical15"
+            android:exported="false" />
+        <activity
+            android:name=".Practical14"
+            android:exported="false" />
+        <activity
+            android:name=".Practical13"
+            android:exported="false" />
+        <activity
+            android:name=".Practical12"
+            android:exported="false" />
+        <activity
+            android:name=".Practical10"
+            android:exported="false" />
+        <activity
+            android:name=".Practical9"
+            android:exported="false" />
+        <activity
+            android:name=".Practical8"
+            android:exported="false" />
+        <activity
+            android:name=".Practical7"
+            android:exported="false" />
+        <activity
+            android:name=".Practical6"
+            android:exported="false" />
+        <activity
+            android:name=".Practical5"
+            android:exported="false" />
+        <activity
+            android:name=".Practical4"
+            android:exported="false" />
+        <activity
+            android:name=".Practical1"
+            android:exported="false" />
+        <activity
+            android:name=".MainActivity"
+            android:exported="true">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+    </application>
+
+</manifest>

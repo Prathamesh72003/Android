@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/pthak/AndroidStudioProjects/PracticeApp/app/src/main/res/layout/activity_main.xml" value="0.25" />
+        <entry key="..\:/Users/pthak/AndroidStudioProjects/PracticeApp/app/src/main/res/layout/activity_practical1.xml" value="0.25" />
+        <entry key="..\:/Users/pthak/AndroidStudioProjects/PracticeApp/app/src/main/res/layout/activity_practical10.xml" value="0.25" />
+        <entry key="..\:/Users/pthak/AndroidStudioProjects/PracticeApp/app/src/main/res/layout/activity_practical12.xml" value="0.25" />
+        <entry key="..\:/Users/pthak/AndroidStudioProjects/PracticeApp/app/src/main/res/layout/activity_practical13.xml" value="0.25" />
+        <entry key="..\:/Users/pthak/AndroidStudioProjects/PracticeApp/app/src/main/res/layout/activity_practical14.xml" value="0.25" />
+        <entry key="..\:/Users/pthak/AndroidStudioProjects/PracticeApp/app/src/main/res/layout/activity_practical15.xml" value="0.25" />
+        <entry key="..\:/Users/pthak/AndroidStudioProjects/PracticeApp/app/src/main/res/layout/activity_practical16.xml" value="0.25" />
+        <entry key="..\:/Users/pthak/AndroidStudioProjects/PracticeApp/app/src/main/res/layout/activity_practical17.xml" value="0.25" />
+        <entry key="..\:/Users/pthak/AndroidStudioProjects/PracticeApp/app/src/main/res/layout/activity_practical4.xml" value="0.25" />
+        <entry key="..\:/Users/pthak/AndroidStudioProjects/PracticeApp/app/src/main/res/layout/activity_practical5.xml" value="0.25" />
+        <entry key="..\:/Users/pthak/AndroidStudioProjects/PracticeApp/app/src/main/res/layout/activity_practical6.xml" value="0.264" />
+        <entry key="..\:/Users/pthak/AndroidStudioProjects/PracticeApp/app/src/main/res/layout/activity_practical7.xml" value="0.25" />
+        <entry key="..\:/Users/pthak/AndroidStudioProjects/PracticeApp/app/src/main/res/layout/activity_practical8.xml" value="0.25" />
+        <entry key="..\:/Users/pthak/AndroidStudioProjects/PracticeApp/app/src/main/res/layout/activity_practical9.xml" value="0.25" />
+        <entry key="..\:/Users/pthak/AndroidStudioProjects/PracticeApp/app/src/main/res/layout/customtoast.xml" value="0.25" />
+        <entry key="..\:/Users/pthak/AndroidStudioProjects/PracticeApp/app/src/main/res/layout/fragment_frag_one.xml" value="0.25" />
+        <entry key="..\:/Users/pthak/AndroidStudioProjects/PracticeApp/app/src/main/res/layout/fragment_frag_two.xml" value="0.25" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
